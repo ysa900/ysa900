@@ -20,5 +20,7 @@
 <a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
 ![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubysa900)](https://github.com/anuraghazra/github-readme-stats)
+# GitHub 평판을 나타내는 위젯
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubysa900)](https://github.com/anuraghazra/github-readme-stats)
 </div>
