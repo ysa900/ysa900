@@ -19,6 +19,6 @@ sce728@gmail.com
 ![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa900)](https://solved.ac/wke1wke1)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa900)](https://solved.ac/ysa900)
 
 
